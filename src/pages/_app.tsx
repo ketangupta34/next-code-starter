@@ -6,8 +6,8 @@ export default function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Really Brief</title>
-        <link rel="shortcut icon" href="/reallybrief-favicon.png" />
+        <title>GPT Chat</title>
+        <link rel="shortcut icon" href="/chatgpt-icon.png" />
       </Head>
 
       <Component {...pageProps} />

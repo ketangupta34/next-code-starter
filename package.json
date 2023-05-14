@@ -1,7 +1,7 @@
 {
-  "name": "chatio",
+  "name": "gpt-chat",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chat GPT",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
